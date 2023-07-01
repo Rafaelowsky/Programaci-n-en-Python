@@ -3,7 +3,7 @@
 lista = [] #Lista vacia
 
 #Las listas pueden guardar varios tipos de datos
-
+#          0      1     2     3       4
 lista = ['Hola', True, 4.5, False, 'Mundo']
 
 """En Python los indices empiezan desde 0
