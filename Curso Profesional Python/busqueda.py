@@ -5,7 +5,7 @@ titulo_curso = 'Curso profesional de Python'
 print(titulo_curso.count('o')) # 4
 print(titulo_curso.count('Python')) # 2
 
-# Con el método in podemos saber si un caracter o una cadena de caracteres se encuentra en un string
+# Con el método in podemos saber si un caracter o una cadena de caracteres se encuentra en una estructura
 
 print('Python' in titulo_curso) # True
 print('python' in titulo_curso) # False
