@@ -35,4 +35,8 @@ print(max(lista)) #198
 print(29 in lista) #True
 print(100 in lista) #False
 
+#Con index() podemos saber en que indice se encuentra un elemento en una lista
+#Si es que existe mas de un elemento igual al que pusismos el parametro, nos devolvera el indice del primero que encuentre
+
+print(lista.index(29)) #0
 
