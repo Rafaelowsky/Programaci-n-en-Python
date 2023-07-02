@@ -21,3 +21,11 @@ nombre_completo = "Mr. {primer_apellido} {segundo_apellido} {nombre}.".format(
     segundo_apellido="Saldivar")
 
 print(nombre_completo)
+
+#Cuarta forma 
+#Con los f-strings podemos hacer operaciones dentro de las llaves y concatenar strings
+
+nombre_completo = f"Mr. {nombre} {apellido} {2 * 100}."
+
+
+print(nombre_completo)
