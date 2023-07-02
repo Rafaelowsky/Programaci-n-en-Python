@@ -1,4 +1,4 @@
-resultado = int (input (' Ingresa un valor: '))
+resultado = 15
 
 # Las condicionales nos permiten evaluar si una expresión es verdadera o falsa
 # dependiendo de su valor ejecutaremos cierto código
