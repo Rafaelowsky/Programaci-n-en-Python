@@ -25,7 +25,7 @@ print(nombre_completo)
 #Cuarta forma 
 #Con los f-strings podemos hacer operaciones dentro de las llaves y concatenar strings
 
-nombre_completo = f"Mr. {nombre} {apellido} {2 * 100}."
+nombre_completo = f"Mr. {nombre} {apellido} {'Saldivar.'} {2 * 100}."
 
 
 print(nombre_completo)
